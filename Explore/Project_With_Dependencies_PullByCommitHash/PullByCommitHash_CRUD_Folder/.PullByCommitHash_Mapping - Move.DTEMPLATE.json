@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "9etB9dzIOonlsYzxXrlJ6S",
+    "name" : "PullByCommitHash_Mapping - Move",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001D1700000000001M"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-08-07T08:40:32.929Z",
+  "objectRefs" : [ ]
+}
